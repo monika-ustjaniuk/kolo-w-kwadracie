@@ -1,0 +1,73 @@
+.container
+{
+    width: 455px;
+    height: 455px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.item
+{
+
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle
+{
+    width: 70px;
+    height: 70px;
+    border-radius: 35px; 
+    border: solid black 1px;
+}
+
+.color-red
+{
+  background-color: red;
+}
+
+.color-pink
+{
+  background-color: pink;
+}
+
+.color-blue
+{
+  background-color: blue;
+}
+
+.color-grey
+{
+  background-color: grey;
+}
+
+.color-green
+{
+  background-color: green;
+}
+
+.color-violet
+{
+  background-color: purple;
+}
+
+.color-yellow
+{
+  background-color: yellow;
+}
+
+.color-black
+{
+  background-color: black;
+}
+
+.color-orange
+{
+  background-color: orange;
+}
+
